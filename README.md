@@ -18,7 +18,7 @@
 ### Screenshot
 
 ![](./screenshot.)
-<img src="assets/images/Readme-image.png">
+<img src="../assets/images/Readme-image.png" alt="Project Screenshot">
 
 
 ### Links
