@@ -17,7 +17,6 @@
 
 ### Screenshot
 
-![](./screenshot.)
 <img src="assets/images/README-image.png" alt="Project Screenshot">
 
 
@@ -58,7 +57,7 @@ li::marker {
   color: hsl(14, 45%, 36%);
 }
 @media only screen and (max-width: 375px) {
-  .page {
+  img {
     width: 100%;
   }
 }
@@ -66,7 +65,7 @@ li::marker {
 
 ### Continued development
 
-I just want to continue improving my css skill and be better each time, till i become a proper professional web development.
+I just want to continue improving my css skill and be better each time, till I become a proper professional web development.
 
 ### Useful resources
 
@@ -77,7 +76,8 @@ I just want to continue improving my css skill and be better each time, till i b
 
 - Website - [https://omowunmikamil.tech](https://www.your-site.com)
 - Frontend Mentor - [balikiskamil@gmail.com](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@browser_nerd](https://www.twitter.com/yourusername)
+- Twitter - [@Browser_Nerd(https://www.twitter.com/yourusername)
 
 ## Acknowledgments
-w3school - for making web materials available for the success of the Recipe Page Challenge
+- **Frontend Mentor** - for providing README and style guide file to help bring this amazing project to life
+- **w3schools** - for making web materials available for the success of the Recipe Page Challenge
