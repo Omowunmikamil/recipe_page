@@ -1,11 +1,8 @@
 # Frontend Mentor - Recipe page solution
 
-This is a solution to the [Recipe page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/recipe-page-KiTsR8QQKm). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
-
 ## Table of contents
 
 - [Overview](#overview)
-  - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
@@ -16,19 +13,18 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### Screenshot
 
 ![](./screenshot.)
+<img src="assets/images/Readme-image.png">
 
 
 ### Links
 
-- Solution URL: [http://localhost:63342/recipe-page-main/index.html?_ijt=rb2ogf8qkdolhb3fmdun5sd1e&_ij_reload=RELOAD_ON_SAVE](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/resposive-mobile-using-css-flex-tools-SRBaleV3kB](https://your-solution-url.com)
+- Live Site URL: [https://omowunmikamil.github.io/recipe_page.github.io/](https://your-live-site-url.com)
 
 ## My process
 
