@@ -75,7 +75,7 @@ I just want to continue improving my CSS skills and be better each time, till I 
 ## Author
 
 - Website - [Visit my Portfolio Website](https://omowunmikamil.tech)
-- Frontend Mentor - [Omowunmi Kamiludeen](https://www.frontendmentor.io/profile/@Omowunmikamil)
+- Frontend Mentor - [Omowunmi Kamiludeen](https://www.frontendmentor.io/profile/Omowunmikamil)
 - Twitter - [Browser_Nerd](https://www.twitter.com/@Browser_Nerd)
 
 ## Acknowledgments
