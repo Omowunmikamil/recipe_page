@@ -22,8 +22,8 @@
 
 ### Links
 
-- Solution URL: [https://www.frontendmentor.io/solutions/resposive-mobile-using-css-flex-tools-SRBaleV3kB](https://your-solution-url.com)
-- Live Site URL: [https://omowunmikamil.github.io/recipe_page.github.io/](https://your-live-site-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/resposive-mobile-using-css-flex-tools-SRBaleV3kB](https://www.frontendmentor.io)
+- Live Site URL: [https://omowunmikamil.github.io/recipe_page.github.io/](https://omowunmikamil.github.io)
 
 ## My process
 
@@ -69,14 +69,14 @@ I just want to continue improving my css skill and be better each time, till I b
 
 ### Useful resources
 
-- [https://www.w3schools.com/howto/howto_css_bullet_color.asp](https://www.example.com) - This helped me for add color to the bullet of the ul and ol element of my recipe page. I really liked this pattern and will use it going forward.
-- [https://www.w3schools.com/html/html_responsive.asp](https://www.example.com) - This is an amazing article which helped me finally understand web responsive design. I'd recommend it to anyone still learning this concept.
+- [https://www.w3schools.com/howto/howto_css_bullet_color.asp](https://www.w3schools) - This helped me for add color to the bullet of the ul and ol element of my recipe page. I really liked this pattern and will use it going forward.
+- [https://www.w3schools.com/html/html_responsive.asp](https://www.w3schools) - This is an amazing article which helped me finally understand web responsive design. I'd recommend it to anyone still learning this concept.
 
 ## Author
 
 - Website - [https://omowunmikamil.tech](https://www.your-site.com)
 - Frontend Mentor - [balikiskamil@gmail.com](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@Browser_Nerd(https://www.twitter.com/yourusername)
+- Twitter - [@Browser_Nerd(https://www.twitter.com/@Browser_Nerd)
 
 ## Acknowledgments
 - **Frontend Mentor** - for providing README and style guide file to help bring this amazing project to life
