@@ -5,61 +5,73 @@
     font-family: 'Lugrasimo','Young Serif', Outfit,cursive, sans-serif;
 }
 
+body {
+    background-color: hsl(30, 54%, 90%);
+}
+
 /* Hero */
 img {
     display: block;
-    margin: 4% auto;
+    width: 100%;
     border-radius: 16px;
 }
 
 /* main */
+.page {
+    display: block;
+    margin: 6% 20%;
+    background-color: hsl(0, 0%, 100%);
+    border-radius: 14px;
+    padding: 4%;
+}
 
 .page h1 {
-    margin-left: 4%;
     font-size: 2.8rem;
     font-weight: 800;
+    margin-top: 20px;
 }
 
 .page p {
-    margin: 10px 4%;
     font-size: 18px;
     font-weight: 400;
     font-family: "Young Serif", sans-serif;
-    color: #454444;
+    margin-top: 15px;
+    margin-bottom: 20px;
 }
+
 strong {
     font-family: "Young Serif", sans-serif;
 }
 
 /* Preparation Section */
 .pre-time {
-    background-color: #fbe5e9;
-    padding: 30px 50px;
-    margin: 2% 4%;
+    background-color: hsl(330, 100%, 98%);
+    padding: 20px 40px;
     border-radius: 14px;
 }
 
-.pre-time h3 {
+.pre-time > h2 {
     font-family: "Young Serif", sans-serif;
     color: hsl(14, 45%, 36%);
+    font-size: 20px;
 }
 
 ul, ol {
     padding: 10px;
-    margin: 10px;
+    margin: 0 10px;
 }
 
 li {
-    padding: 10px 20px;
+    padding: 6px 20px;
     font-family: "Young Serif", sans-serif;
 }
 
 /* Ingredient & Instruction Section */
 .ingredient, .instruction, .ingredient{
-    margin: 20px 4%;
+    margin: 20px 0;
 }
 
-h2, h3 {
+h2 {
     color: hsl(14, 45%, 36%);
     font-weight: bold;
 }
@@ -69,32 +81,25 @@ li::marker {
     font-weight: bold;
 }
 
-hr {
-    width: 91%;
-    margin-left: 4%;
-    margin-bottom: 1%;
-}
-
 /* Nutrition Section */
 .nutrition h2 {
     color: hsl(14, 45%, 36%);
-    margin: 20px 4% 10px 4%;
-    padding-bottom: 15px;
+    margin-top: 20px;
 }
 
 .item p {
     display: inline-block;
-    padding: 10px 3%;
+    padding: 0 20px;
 }
 
 .cal {
     text-align: left;
-    width: 46%;
+    width: 54%;
 }
 
 .val {
     text-align: right;
-    width: 36%;
+    width: 45%;
 }
 
 .item span {
@@ -107,23 +112,34 @@ hr {
 @media only screen and (max-width: 375px) {
     img {
         width: 100%;
-        border-radius: 0;
-        margin: 0;
+        border-radius: 8px;
+    }
+
+    .page {
+        margin: 6% 10%;
+        border-radius: 10px;
     }
 
     .page h1 {
-        font-size: 2.2rem;
-        padding-top: 20px;
-        padding-bottom: 20px;
+        font-size: 1.8rem;
     }
 
     .page p {
-        font-size: 1.2rem;
-        padding-bottom: 20px;
+        font-size: 1.1rem;
     }
 
     .pre-time {
-        padding: 20px 30px;
+        margin-top: 10px;
+    }
+
+    .cal {
+        text-align: left;
+        width: 40%;
+    }
+
+    .val {
+        text-align: right;
+        width: 54%;
     }
 
 }
